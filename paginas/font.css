@@ -1,0 +1,23 @@
+.rtext {
+    font-size: clamp(0.5em, 1.25em, 2em);
+}
+
+.htext{
+    font-size: clamp(1em, 1.25em, 2em);
+}
+
+.ltext{
+    font-size: clamp(0.5em, 1em, 1.5em);
+}
+
+.itext{
+    font-size: clamp(0.5em, 1em, 1.5em);
+}
+
+.backrule{
+    border-radius: 5px;
+    padding: 8px;
+    color: white;
+    margin: 16px;
+    font-size: clamp(1em, 1.5em, 2em);
+}
